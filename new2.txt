@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is new 2git 
+=======
+this is new 2git
+>>>>>>> gitbranch1
