@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this new1.txt
+=======
+this new1.txt
+>>>>>>> gitbranch1
